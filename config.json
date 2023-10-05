@@ -1,0 +1,20 @@
+{
+    "state": "Discord Custom Status",
+    "details": "Made By CinarKK",
+   "startTimestamp": "localTime()",
+    "largeImageKey": "https://i.gifer.com/L7sU.gif",
+    "largeImageText": "lol",
+    "smallImageKey": "https://i.gifer.com/L7sU.gif",
+    "smallImageText": "lol",
+    "instance": true, 
+    "buttons": [
+      {
+        "label": "Get Custom Status Maker",
+        "url": "https://github.com/CinarKK9/custom-discord-rp-by-cinarkk"
+      },
+      {
+        "label": "Custom Status By CinarKK",
+        "url": "https://github.com/CinarKK9"
+      }
+    ]
+  }
