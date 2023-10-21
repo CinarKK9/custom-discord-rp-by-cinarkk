@@ -1,7 +1,8 @@
 {
+    "clientId": "client id here"
     "state": "Discord Custom Status",
     "details": "Made By CinarKK",
-   "startTimestamp": "localTime()",
+    "startTimestamp": "localTime()",
     "largeImageKey": "https://i.gifer.com/L7sU.gif",
     "largeImageText": "lol",
     "smallImageKey": "https://i.gifer.com/L7sU.gif",
