@@ -3,7 +3,7 @@ import { Client } from "discord-rpc";
 import * as config from "./config.json";
 const rpc = new Client({ transport: "ipc" });
 
-const clientID = "1046835322899664998"; //you should create an app from https://discord.com/developers/applications
+const clientID = config.clientId; //you should create an app from https://discord.com/developers/applications
 rpc.login({ clientId: clientID });
 // THE NAME OF YOUR APPLICATION WILL SHOW AS 'Playing APP_NAME' under your name when this app is working
 // THIS APP DOESN'T WORK WITHOUT CLIENT ID
